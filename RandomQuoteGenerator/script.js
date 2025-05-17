@@ -2,6 +2,44 @@
 
 
 const loveQuotes = [
+  "Hey Beautiful.....💜",
+  "This is for you 😍ache se padhna...",
+  "🎉 Happy Birthday to the beautiful Deepali! 🌸✨",
+  "🎂 Wishing you endless beauty, love, and joy, Deepali! 💖🎈",
+  "🌟 You were born to shine, Deepali. Happy Birthday! 💫💋",
+  "👑 To the prettiest girl I know — Deepali, have the best birthday! 💐🎉",
+  "💖 Deepali, every year you become more beautiful. Happy Birthday! 🎊",
+  "🥳 Wishing Deepali a year full of laughter, love, and sparkle! 😂❤️🌹",
+  "✨ Deepali, you're beautiful inside and out. Happy Birthday! 🌼💗",
+  "🎂 Beauty and brains — Deepali has it all! 🧠💋",
+  "💡 Keep glowing and growing, Deepali. Happy Birthday! 🌼🌟",
+  "🌞 Deepali, may your smile light up the world forever! 😊🎁",
+  "🌟 Deepali, you sparkle like the brightest star. Happy Birthday! ✨🌈",
+  "💋 Hugs and kisses for the gorgeous Deepali on her special day! 💌💖",
+  "🌹 Deepali, you're a true beauty. Enjoy your day! 💕🎂",
+  "💛 Happy Birthday to Deepali, a golden-hearted soul! 🌟💝",
+  "🎉 Deepali, you shine brighter than any candle! 🕯️✨",
+  "👑 To our queen Deepali, Happy Birthday! ♥️👸",
+  "💫 You light up our lives, Deepali! Happy Birthday! 🏠💖",
+  "📈 Deepali, with each year, you grow more stunning! 🍷🌸",
+  "🎈 Elegant, amazing Deepali — happiest birthday to you! 💃💐",
+  "🥂 Deepali, you're one of a kind! Celebrate big! 🎊✨",
+  "🌹 Grace, charm, and beauty — that’s Deepali! 👑💞",
+  "🎁 Deepali, you deserve all the magic in the world today! 🪄🌟",
+  "💃 Forever fabulous Deepali — Happy Birthday! 💋✨",
+  "💖 Deepali, you're beautiful in every way. Happy Birthday! 🌸🧡",
+  "🌷 To Deepali — another year of being breathtaking! 🥳🎂",
+  "😊 Deepali, may your smile never fade. Happy B’day! 💫🎈",
+  "🌞 You brighten everyone's life, Deepali! 💛✨",
+  "🌟 Your beauty is an inspiration, Deepali! Happy Birthday! 🌍💐",
+  "🎊 The world is lucky to have Deepali in it! 🎁❤️",
+  "😍 Wishing Deepali a birthday as lovely as her smile! 🌸💫",
+  "💌 Deepali, you make everything better — Happy Birthday! 🌈🧡",
+  "🎨 Deepali, you're a masterpiece! 🖼️💖",
+  "🌹 Beautiful and strong — that's you, Deepali! 🌺💪",
+  "🌼 Deepali, you blossom more with every year! 💛🎉",
+  "🌸 You're blooming, not aging, Deepali! 🌷🎂",
+  "🧡 With your golden heart, you make the world better, Deepali! 🌟💛",
   "💖 You are my today and all of my tomorrows.",
   "👩‍❤️‍👨 In you, I found the love of my life and my closest friend.",
   "💓 My heart is perfect because you are inside.",
@@ -111,43 +149,6 @@ const loveQuotes = [
   "👴👵 I’ll grow old loving you — every wrinkle, every laugh, every memory.",
   "🔐 You are my forever and always.",
 
-  // Birthday Wishes for Deepali
-  "🎉 Happy Birthday to the beautiful Deepali! 🌸✨",
-  "🎂 Wishing you endless beauty, love, and joy, Deepali! 💖🎈",
-  "🌟 You were born to shine, Deepali. Happy Birthday! 💫💋",
-  "👑 To the prettiest girl I know — Deepali, have the best birthday! 💐🎉",
-  "💖 Deepali, every year you become more beautiful. Happy Birthday! 🎊",
-  "🥳 Wishing Deepali a year full of laughter, love, and sparkle! 😂❤️🌹",
-  "✨ Deepali, you're beautiful inside and out. Happy Birthday! 🌼💗",
-  "🎂 Beauty and brains — Deepali has it all! 🧠💋",
-  "💡 Keep glowing and growing, Deepali. Happy Birthday! 🌼🌟",
-  "🌞 Deepali, may your smile light up the world forever! 😊🎁",
-  "🌟 Deepali, you sparkle like the brightest star. Happy Birthday! ✨🌈",
-  "💋 Hugs and kisses for the gorgeous Deepali on her special day! 💌💖",
-  "🌹 Deepali, you're a true beauty. Enjoy your day! 💕🎂",
-  "💛 Happy Birthday to Deepali, a golden-hearted soul! 🌟💝",
-  "🎉 Deepali, you shine brighter than any candle! 🕯️✨",
-  "👑 To our queen Deepali, Happy Birthday! ♥️👸",
-  "💫 You light up our lives, Deepali! Happy Birthday! 🏠💖",
-  "📈 Deepali, with each year, you grow more stunning! 🍷🌸",
-  "🎈 Elegant, amazing Deepali — happiest birthday to you! 💃💐",
-  "🥂 Deepali, you're one of a kind! Celebrate big! 🎊✨",
-  "🌹 Grace, charm, and beauty — that’s Deepali! 👑💞",
-  "🎁 Deepali, you deserve all the magic in the world today! 🪄🌟",
-  "💃 Forever fabulous Deepali — Happy Birthday! 💋✨",
-  "💖 Deepali, you're beautiful in every way. Happy Birthday! 🌸🧡",
-  "🌷 To Deepali — another year of being breathtaking! 🥳🎂",
-  "😊 Deepali, may your smile never fade. Happy B’day! 💫🎈",
-  "🌞 You brighten everyone's life, Deepali! 💛✨",
-  "🌟 Your beauty is an inspiration, Deepali! Happy Birthday! 🌍💐",
-  "🎊 The world is lucky to have Deepali in it! 🎁❤️",
-  "😍 Wishing Deepali a birthday as lovely as her smile! 🌸💫",
-  "💌 Deepali, you make everything better — Happy Birthday! 🌈🧡",
-  "🎨 Deepali, you're a masterpiece! 🖼️💖",
-  "🌹 Beautiful and strong — that's you, Deepali! 🌺💪",
-  "🌼 Deepali, you blossom more with every year! 💛🎉",
-  "🌸 You're blooming, not aging, Deepali! 🌷🎂",
-  "🧡 With your golden heart, you make the world better, Deepali! 🌟💛"
 ];
 
 
@@ -155,15 +156,18 @@ const loveQuotes = [
 
 
 
+let currentIndex = 0;
+
 function quote() {
-  const value = Math.floor(Math.random() * loveQuotes.length);
   const quoteElement = document.querySelector(".h2");
-  
+
   quoteElement.style.opacity = 0;
 
   setTimeout(() => {
-    quoteElement.innerHTML = loveQuotes[value];
+    quoteElement.innerHTML = loveQuotes[currentIndex];
     quoteElement.style.opacity = 1;
+
+    currentIndex = (currentIndex + 1) % loveQuotes.length; // Loop back to start
   }, 300);
 }
 
