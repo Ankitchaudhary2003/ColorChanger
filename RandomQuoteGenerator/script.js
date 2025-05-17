@@ -1,6 +1,6 @@
 
 
-```javascript
+
 const loveQuotes = [
   "💖 You are my today and all of my tomorrows.",
   "👩‍❤️‍👨 In you, I found the love of my life and my closest friend.",
@@ -149,7 +149,7 @@ const loveQuotes = [
   "🌸 You're blooming, not aging, Deepali! 🌷🎂",
   "🧡 With your golden heart, you make the world better, Deepali! 🌟💛"
 ];
-```
+
 
 
 
